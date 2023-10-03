@@ -20,5 +20,6 @@ gantt
 ```
 
 ## PERT／CPM圖
+![PERT](Ssutu_PERT.png "PERT圖作業")
 
 ## 關鍵路徑
